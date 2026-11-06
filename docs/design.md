@@ -1,5 +1,5 @@
 The user will choose the options in main for the tasks they want to accomplish
-Ex. 1. Enter temp.
+Ex. 1. Enter temp. within 68F to 76F
     2. Change temp. range
     3. Calculate avg.
     4. Display readings & status
