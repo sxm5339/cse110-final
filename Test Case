@@ -1,0 +1,27 @@
+Range - 68-76 degrees F
+Case 1:
+input: 72
+output: normal
+pass/fail: pass
+Case 2:
+input: 79
+output: warning
+pass/fail: fail
+Case 3:
+input: 65
+output: warning
+pass/fail: fail
+Case 4:
+input: 70
+output normal
+pass/fail: pass
+Case 5:
+input: 80
+output: warning
+pass/fail: fail
+Temperature System Status Warning LED:
+72         NORMAL       OFF
+79         WARNING      ON
+65        WARNING       ON
+70        NORMAL        OFF
+80        WARNING       ON
