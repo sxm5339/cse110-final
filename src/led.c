@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <unistd.h>
-#include <pigpioi.h>
+#include <pigpio.h>
 
 #define PIN 17
 
